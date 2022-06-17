@@ -1,0 +1,8 @@
+\babel@toc {naustrian}{}
+\babel@toc {english}{}
+\babel@toc {naustrian}{}
+\babel@toc {naustrian}{}
+\contentsline {chapter}{\nonumberline Abkürzungsverzeichnis}{1}{chapter*.7}%
+\contentsline {chapter}{Abbildungsverzeichnis}{2}{section*.8}%
+\contentsline {chapter}{Tabellenverzeichnis}{2}{section*.10}%
+\contentsline {chapter}{Literaturverzeichnis}{4}{section*.12}%
